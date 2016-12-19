@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProvaJefersonMoises</string>
+
+    <string name="iniciar">Iniciar</string>
+    <string name="nome_meta">Nome para meta</string>
+    <string name="peso_atual">Peso Atual</string>
+    <string name="peso_desejado">Peso Desejado</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="manha">Manhã</string>
+    <string name="tarde">Tarde</string>
+    <string name="noite">Noite</string>
+    
+    <string-array name="t2_sp_array_treino">
+        <item>Selecione</item>
+        <item>Leve</item>
+        <item>Moderado</item>
+        <item>Intenso</item>
+    </string-array>
+
+    <string name="cadastrar">Register</string>
+
+</resources>
